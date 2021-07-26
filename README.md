@@ -1,5 +1,5 @@
 <h2>	'sup :partying_face: , I'm Vishal Teotia ! <img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/punjabi-man-dancing-2179787-1858756.png" width="50"></h2>
-<img align='right' src="img src="https://i.ibb.co/Sx1Kqxk/vishalteotia.gif" width="230">
+<img align='right' src="https://i.ibb.co/Sx1Kqxk/vishalteotia.gif" width="230">
 <p><em>Student at <a href="http://www.cleartax.in">Vellore Institute of Technology</a><img src="https://cdni.iconscout.com/illustration/premium/thumb/man-listening-music-2948564-2447331.png" width="30"> 
 </em></p>
 
