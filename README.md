@@ -11,8 +11,8 @@ const Vishal = {
   canCodeIn : ["Javascript", "Python", "C++", "C"],
   canTalkAbout: ["Gaming", "Tech", "Web Dev", "Solid Modeling"],
   techStack : {
-    serverSide: ["Django", "Flask" , "Redux"]
-    frontEnd : ["React" , "HTML", "CSS"]
+    serverSide: ["Django", "Flask" , "Redux"],
+    frontEnd : ["React" , "HTML", "CSS"],
     devOps: ["AWS"],
     db : ["MySql", "sqlite"],
     misc: ["Firebase", "selenium"]
