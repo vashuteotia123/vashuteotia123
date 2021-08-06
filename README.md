@@ -18,7 +18,7 @@ const Vishal = {
     misc: ["Firebase", "selenium"]
   },
   currentlyPersuing:
-            "Still confused"
+            "Confusion"
 };
 ```
 
