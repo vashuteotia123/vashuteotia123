@@ -25,3 +25,8 @@ const Vishal = {
 <img src="https://cdn3d.iconscout.com/3d/premium/thumb/business-deal-3597247-3010227.png" width="60"> <em><b>Looking to collaborate with developers. </b> 😊</em>
 
 ---
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
