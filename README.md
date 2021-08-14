@@ -26,6 +26,7 @@ const Vishal = {
 
 ---
 
+📊 Weekly programming/development breakdown
 
 <!--START_SECTION:waka-->
 ```text
