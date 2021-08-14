@@ -26,7 +26,7 @@ const Vishal = {
 
 ---
 
-📊 Weekly programming/development breakdown
+📊 <em><b>Weekly programming/development breakdown. </b></em>
 
 <!--START_SECTION:waka-->
 ```text
