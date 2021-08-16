@@ -3,7 +3,7 @@
 <p><em>Student at <a href="https://chennai.vit.ac.in/">Vellore Institute of Technology</a><img src="https://cdni.iconscout.com/illustration/premium/thumb/man-listening-music-2948564-2447331.png" width="30"> 
 </em></p>
 
-### <img src="https://cdni.iconscout.com/illustration/premium/thumb/rajput-man-is-showing-swag-2660609-2231732.png" width="50"> Few stuff I know.
+### <img src="https://cdni.iconscout.com/illustration/premium/thumb/rajput-man-is-showing-swag-2660609-2231732.png" width="50"> About Me 
 
 ```javascript
 console.log("Inquisitive of every field")
@@ -26,7 +26,7 @@ const Vishal = {
 
 ---
 
-📊 <em><b>Weekly programming/development breakdown. </b></em>
+📊 <em><b>What I did this week so far. </b></em>
 
 <!--START_SECTION:waka-->
 ```text
