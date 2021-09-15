@@ -1,13 +1,13 @@
-<h2>	'sup :partying_face: , I'm Vishal Teotia ! <img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/punjabi-man-dancing-2179787-1858756.png" width="50"></h2>
-<img align='right' src="https://i.ibb.co/QFVPgm0/output-onlinegiftools.gif" width="230">
-<p><em>Student at <a href="https://chennai.vit.ac.in/">Vellore Institute of Technology</a><img src="https://cdni.iconscout.com/illustration/premium/thumb/man-listening-music-2948564-2447331.png" width="30"> 
-</em></p>
+## Hii, I'm Vishal Teotia
+![image](https://shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white)
+![image](https://shields.io/badge/node.js-blue?style=for-the-badge&logo=node.js&logoColor=white)
+![image](https://shields.io/badge/express.js-grey?style=for-the-badge&logo=express&logoColor=white)
+![image](https://shields.io/badge/mongoDB-yellow?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### <img src="https://cdni.iconscout.com/illustration/premium/thumb/rajput-man-is-showing-swag-2660609-2231732.png" width="50"> About Me 
+### About Me
+Currently, I am student at [Vellore Institute of Technology](https://chennai.vit.ac.in/)
 
-
-
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/business-deal-3597247-3010227.png" width="60"> <em><b>Looking to collaborate with developers. </b> 😊</em>
+<img src="https://cdn3d.iconscout.com/3d/premium/thumb/business-deal-3597247-3010227.png" width="60"> <em><b>Looking for some good open source projects to contribute in. </b> 😊</em>
 
 ---
 
