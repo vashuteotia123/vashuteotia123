@@ -5,7 +5,7 @@
 
 ### <img src="https://cdni.iconscout.com/illustration/premium/thumb/rajput-man-is-showing-swag-2660609-2231732.png" width="50"> About Me 
 
-```javascript
+```c++
 console.log("Inquisitive of every field")
 const Vishal = {
   canCodeIn : ["Javascript", "Python", "C++", "C"],
