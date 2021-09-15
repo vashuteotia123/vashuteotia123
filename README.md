@@ -5,22 +5,7 @@
 
 ### <img src="https://cdni.iconscout.com/illustration/premium/thumb/rajput-man-is-showing-swag-2660609-2231732.png" width="50"> About Me 
 
-```c++
-console.log("Inquisitive of every field")
-const Vishal = {
-  canCodeIn : ["Javascript", "Python", "C++", "C"],
-  canTalkAbout: ["Gaming", "Tech", "Web Dev", "Solid Modeling"],
-  techStack : {
-    serverSide: ["Django", "Flask" , "Redux", "ExpressJS", "NodeJS"],
-    frontEnd : ["React" , "HTML", "CSS"],
-    devOps: ["AWS"],
-    db : ["MySql", "sqlite"],
-    misc: ["Firebase", "selenium"]
-  },
-  currentlyPersuing:
-            "Confusion"
-};
-```
+
 
 <img src="https://cdn3d.iconscout.com/3d/premium/thumb/business-deal-3597247-3010227.png" width="60"> <em><b>Looking to collaborate with developers. </b> 😊</em>
 
