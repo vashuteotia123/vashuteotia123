@@ -8,9 +8,8 @@
 ![image](https://shields.io/badge/express.js-grey?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://shields.io/badge/mongoDB-yellow?style=for-the-badge&logo=mongodb&logoColor=white)
 </div>
-<div>
-<img align='right' src="https://magiccopy.xyz/assets/images/hadder.gif" width="400">
-</div>
+
+<img align="right" src="https://user-images.githubusercontent.com/63050475/133645183-a300cf64-c14a-4bb9-bca0-10d097e13410.gif" width="350">
 
 ### About Me
 👨‍🎓 <em>Student at Vellore Institute of Technology, Chennai.😊</em>
