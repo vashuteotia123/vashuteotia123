@@ -21,7 +21,7 @@
 
 ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vashuteotia123&show_icons=true)
 
-📊 <em><b>What I did this week so far. </b></em>
+<!-- 📊 <em><b>What I did this week so far. </b></em>
 
 <!--START_SECTION:waka-->
 ```text
@@ -32,6 +32,6 @@ Java         1 hr 30 mins    ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 Python       48 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.32 % 
 ```
 <!--END_SECTION:waka-->
-
+ -->
 
 
