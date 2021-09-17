@@ -7,6 +7,9 @@
 ![image](https://shields.io/badge/node.js-blue?style=for-the-badge&logo=node.js&logoColor=white)
 ![image](https://shields.io/badge/express.js-grey?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://shields.io/badge/mongoDB-yellow?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://shields.io/badge/sqlite-violet?style=for-the-badge&logo=sqlite&logoColor=white)
+![image](https://shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase&logoColor=blue)
+
 </div>
 
 <img align='right' src="https://i.ibb.co/QFVPgm0/output-onlinegiftools.gif" width="400">
