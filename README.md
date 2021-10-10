@@ -8,6 +8,7 @@
 ![image](https://shields.io/badge/express.js-grey?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://shields.io/badge/mongoDB-yellow?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://shields.io/badge/sqlite-violet?style=for-the-badge&logo=sqlite&logoColor=white)
+![image](https://shields.io/badge/go-blue?style=for-the-badge&logo=go&logoColor=white)
 
 </div>
 
