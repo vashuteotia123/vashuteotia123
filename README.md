@@ -17,7 +17,7 @@
 ### About Me
 👨‍🎓 <em>Student at Vellore Institute of Technology, Chennai.😊</em>
 
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/business-deal-3597247-3010227.png" width="20"> <em><b>Looking for some good open source projects to contribute in. </b> 😊</em>
+<img src="https://cdn3d.iconscout.com/3d/premium/thumb/business-deal-3597247-3010227.png" width="20"> <em><b>A Mechanical Engineering Student.</em>
 
 ---
 
