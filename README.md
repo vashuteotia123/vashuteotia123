@@ -3,13 +3,15 @@
 <div align="center">
   
 
+
 ![image](https://shields.io/badge/django-green?style=for-the-badge&logo=django&logoColor=white)
 ![image](https://shields.io/badge/node.js-blue?style=for-the-badge&logo=node.js&logoColor=white)
 ![image](https://shields.io/badge/express.js-grey?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://shields.io/badge/mongoDB-yellow?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://shields.io/badge/sqlite-violet?style=for-the-badge&logo=sqlite&logoColor=white)
 ![image](https://shields.io/badge/go-blue?style=for-the-badge&logo=go&logoColor=white)
-
+  ##### Coded ![wakatime](https://wakatime.com/badge/user/9b30cd44-c53a-44d5-8ea4-236584d2eaf4.svg?style=for-the-badge) since August, 2021.
+  
 </div>
 
 <img align='right' src="https://i.ibb.co/QFVPgm0/output-onlinegiftools.gif" width="400">
