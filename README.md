@@ -10,7 +10,7 @@
 ![image](https://shields.io/badge/mongoDB-yellow?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://shields.io/badge/sqlite-violet?style=for-the-badge&logo=sqlite&logoColor=white)
 ![image](https://shields.io/badge/go-blue?style=for-the-badge&logo=go&logoColor=white)
-  ##### Coded ![wakatime](https://wakatime.com/badge/user/9b30cd44-c53a-44d5-8ea4-236584d2eaf4.svg?style=for-the-badge) since August, 2021.
+  ##### Coded ![wakatime](https://wakatime.com/badge/user/9b30cd44-c53a-44d5-8ea4-236584d2eaf4.svg?style=for-the-badge) since August, 2021 on Visual Studio Code.
   
 </div>
 
