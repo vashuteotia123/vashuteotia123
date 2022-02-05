@@ -16,8 +16,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_BY_ME: "True"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "True"
+          SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "True"
+          SHOW_LOC_CHART: "False"
+          SHOW_EDITORS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_LANGUAGE: "False"
           
           
           
