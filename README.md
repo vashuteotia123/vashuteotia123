@@ -26,7 +26,7 @@
 ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vashuteotia123&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
