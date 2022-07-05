@@ -24,7 +24,7 @@
 
 ---
 ![Vishal's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=vashuteotia123&hide_border=true&fire=2389DD&ring=329BDD&theme=dark)
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vashuteotia123&show_icons=true&theme=dark)
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vashuteotia123&show_icons=true&theme=dark&count_private=true)
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
