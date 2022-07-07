@@ -15,8 +15,6 @@
   
 </div>
 
-<img align='right' src="https://i.ibb.co/QFVPgm0/output-onlinegiftools.gif" width="400">
-
 ### About Me
 👨‍🎓 <em>Student at Vellore Institute of Technology, Chennai.😊</em>
 
