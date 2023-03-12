@@ -21,11 +21,10 @@
 <img src="https://cdn3d.iconscout.com/3d/premium/thumb/business-deal-3597247-3010227.png" width="20"> <em><b>A Mechanical Engineering Student.</em>
 
 ---
-![Vishal's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=vashuteotia123&hide_border=true&fire=2389DD&ring=329BDD&theme=dark)
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vashuteotia123&show_icons=true&theme=dark&count_private=true)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vashuteotia123&hide_border=true&fire=2389DD&ring=329BDD&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vashuteotia123&show_icons=true&theme=dark&count_private=true" />
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -46,6 +45,8 @@ Friday                   101 commits         ████░░░░░░░�
 Saturday                 105 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
 Sunday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
 ```
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
 
 📊 **This Week I Spent My Time On** 
