@@ -21,7 +21,7 @@
 <img src="https://cdn3d.iconscout.com/3d/premium/thumb/business-deal-3597247-3010227.png" width="20"> <em><b>A Mechanical Engineering Student.</em>
 
 ---
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vashuteotia123&hide_border=true&fire=2389DD&ring=329BDD&theme=dark" />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vashuteotia123&hide_border=true&fire=2389DD&ring=329BDD&theme=dark" /> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vashuteotia123&show_icons=true&theme=dark&count_private=true" />
 
 <!--START_SECTION:waka-->
