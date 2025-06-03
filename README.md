@@ -11,7 +11,7 @@
 ![image](https://shields.io/badge/mongoDB-yellow?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://shields.io/badge/sqlite-violet?style=for-the-badge&logo=sqlite&logoColor=white) <br>
 ![wakatime](https://wakatime.com/badge/user/9b30cd44-c53a-44d5-8ea4-236584d2eaf4.svg?style=for-the-badge) 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=vashuteotia123&style=for-the-badge)
   
 </div>
 
